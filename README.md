@@ -7,5 +7,5 @@ Vue.js + Semantic-ui-vue + Less Template
 - https://github.com/webpack-contrib/less-loader
 
 # Run
-npm install
-npm run dev
+1. npm install
+2. npm run dev
